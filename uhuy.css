@@ -1,0 +1,47 @@
+@media screen and (max-device-width: 480px)
+and (orientation: portrait) {
+  .col-form-label {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    color: #fff;
+  }
+}
+
+html {
+    height: auto;
+    width: auto;
+    overflow: auto; 
+  }
+
+.bg{
+    background-image: url(huhu.png);
+    background-position: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+.li{
+    font-weight: bold;
+}
+
+.col-form-label{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px black;
+}
+
+.tex{
+    color: white;
+    font-weight: bold;
+    text-shadow: 2px 2px black;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.card{
+  width: 100%;
+  color: rgb(82, 0, 0);
+  
+}
