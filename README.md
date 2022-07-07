@@ -1,0 +1,2 @@
+# pokedeckx
+pokedex clone
